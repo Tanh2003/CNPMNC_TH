@@ -1,52 +1,41 @@
-# Kế Hoạch Học Tiếng Anh Đạt TOEIC 650+
+# Kế Hoạch Học Tiếng Anh trong 10 ngày
 
 ![image](https://github.com/Tanh2003/CNPMNC_TH/assets/109021417/f0e07f0d-7b5d-4360-844a-be965b7ec53d)
 
 Chào mọi người,😊
 
-Kế hoạch học tiếng Anh được thiết kế để giúp bạn đạt được điểm TOEIC 650 trở lên. Kế hoạch này tập trung vào cải thiện kỹ năng Nghe và Đọc, hai khía cạnh quan trọng trong kỳ thi TOEIC. Bằng việc tuân thủ kế hoạch này và cống hiến thời gian và nỗ lực, bạn sẽ có cơ hội cải thiện khả năng giao tiếp và nâng cao cơ hội trong sự nghiệp.
+# Kế Hoạch Học Tiếng Anh trong 10 Ngày
 
-## Đánh Giá Trình Độ Hiện Tại
+Chào bạn,
 
-Trước hết, hãy thực hiện một bài kiểm tra hoặc đánh giá trình độ tiếng Anh của bạn để xác định mức độ hiện tại. Điều này sẽ giúp bạn xác định điểm khởi đầu và đặt ra mục tiêu cụ thể.
+Kế hoạch học tiếng Anh trong 10 ngày. Nếu bạn đang tìm kiếm một cách nhanh chóng để làm quen với tiếng Anh hoặc cải thiện trình độ của mình, thì đây chính là nơi bạn cần đến. Bạn có thể thực hiện kế hoạch này tại nhà hoặc ở bất kỳ nơi đâu, với mục tiêu học một cách hiệu quả trong 10 ngày.
 
-## Học Từ Vựng và Ngữ Pháp
+## Mục Tiêu
 
-Dành thời gian hàng ngày để học từ vựng và ngữ pháp. Sử dụng sách giáo trình TOEIC hoặc các ứng dụng học tiếng Anh để cải thiện vốn từ vựng và kiến thức ngữ pháp của bạn.
+Kế hoạch này được thiết kế để giúp bạn làm quen với tiếng Anh, nắm vững những kiến thức cơ bản và cải thiện kỹ năng ngôn ngữ của mình trong thời gian ngắn. Dưới đây là một số mục tiêu chính:
 
-## Học Nghe và Nói
+1. **Học Cơ Bản**: Nắm vững từ vựng và ngữ pháp cơ bản để có thể giao tiếp và hiểu tiếng Anh hàng ngày.
+2. **Luyện Nói và Lắng Nghe**: Thực hành nghe và nói tiếng Anh để làm quen với âm điệu và phát âm.
+3. **Đọc và Hiểu**: Đọc bài viết đơn giản và hiểu nội dung.
+4. **Viết Ngắn**: Thử viết bài luận hoặc email ngắn bằng tiếng Anh.
+5. **Học Tự Học**: Nắm vững kỹ năng tự học để có thể tiếp tục phát triển sau kế hoạch này.
 
-Nghe các tài liệu tiếng Anh hàng ngày, bao gồm cả podcast, bản tin, phim hoặc video trực tuyến. Luyện tập nói tiếng Anh bằng cách lặp lại các đoạn hội thoại và câu hỏi.
+## Lưu Ý
 
-## Học Đọc và Viết
+Kế hoạch học tiếng Anh trong 10 ngày là một khởi đầu tốt, nhưng nó chỉ giới thiệu bạn với cơ bản. Học tiếng Anh là một quá trình liên tục và đòi hỏi sự kiên nhẫn và thực hành thường xuyên. Sau khi hoàn thành kế hoạch này, bạn có thể tiếp tục học và phát triển kỹ năng của mình.
 
-Đọc bài báo, sách và tài liệu tiếng Anh đa dạng để cải thiện kỹ năng đọc. Viết hàng ngày, có thể là blog cá nhân hoặc nhật ký, để phát triển khả năng viết.
+## Lộ Trình Học
 
-## Luyện TOEIC Bài Tập Thực Tế
+Dưới đây là lộ trình học trong 10 ngày mà bạn có thể tuân thủ:
 
-Làm nhiều bài tập TOEIC mẫu và đề thi thử nghiệm càng nhiều càng tốt. Điều này sẽ giúp bạn làm quen với định dạng của bài thi và cải thiện khả năng làm bài trong thời gian giới hạn.
+- [Ngày 1-2: Tập Trung vào Cơ Bản](day1-2.md)
+- [Ngày 3-4: Nghe và Phát Âm](day3-4.md)
+- [Ngày 5-7: Học Từ Vựng và Ngữ Pháp](day5-7.md)
+- [Ngày 8-10: Đọc và Viết](day8-10.md)
 
-## Khám Phá Các Khóa Học TOEIC
+Hãy tiếp tục đọc các hướng dẫn cụ thể trong mỗi ngày để bắt đầu hành trình học tiếng Anh của bạn!
 
-Cân nhắc tham gia vào các khóa học TOEIC trực tuyến hoặc tại các trung tâm đào tạo chuyên nghiệp nếu bạn cảm thấy cần sự hướng dẫn chuyên sâu.
+Chúc bạn học tốt và thành công!
 
-## Lập Kế Hoạch Thường Xuyên Học Tập
-
-Xây dựng một lịch học tập cố định và tuân thủ nó. Điều này sẽ giúp bạn duy trì mục tiêu và tiến bộ.
-
-## Kiểm Tra Thường Xuyên
-
-Thực hiện các bài kiểm tra thử nghiệm để đánh giá tiến bộ của bạn và điều chỉnh kế hoạch học tập nếu cần.
-
-## Tham Gia Vào Các Buổi Giao Tiếp Tiếng Anh
-
-Tìm cơ hội tham gia vào các cuộc hội thoại hoặc lớp học tiếng Anh nơi bạn có thể thực hành nói và lắng nghe.
-
-## Giữ Động Lực
-
-Học tiếng Anh có thể mệt mỏi, vì vậy luôn duy trì động lực bằng cách đặt ra mục tiêu và kỷ niệm các thành tựu nhỏ trên hành trình học tập.
-
-Cùng nhau, chúng ta có thể đạt được mục tiêu TOEIC 650+ và nâng cao kỹ năng tiếng Anh của mình. Chúc bạn may mắn trong hành trình học tập!
-
-##
+_--Nhóm Hỗ Trợ Học Tiếng Anh_
 
