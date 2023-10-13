@@ -5,10 +5,10 @@
 Chào mọi người,😊
 Kế hoạch học tiếng Anh trong 10 ngày. Nếu bạn đang tìm kiếm một cách nhanh chóng để làm quen với tiếng Anh hoặc cải thiện trình độ của mình, thì đây chính là nơi bạn cần đến. Bạn có thể thực hiện kế hoạch này tại nhà hoặc ở bất kỳ nơi đâu, với mục tiêu học một cách hiệu quả trong 10 ngày.
 
-## Mục Tiêu
+## Mục Tiêu💖
 
 Kế hoạch này được thiết kế để giúp bạn làm quen với tiếng Anh, nắm vững những kiến thức cơ bản và cải thiện kỹ năng ngôn ngữ của mình trong thời gian ngắn. Dưới đây là một số mục tiêu chính:
-
+🍕
 1. **Học Cơ Bản**: Nắm vững từ vựng và ngữ pháp cơ bản để có thể giao tiếp và hiểu tiếng Anh hàng ngày.
 2. **Luyện Nói và Lắng Nghe**: Thực hành nghe và nói tiếng Anh để làm quen với âm điệu và phát âm.
 3. **Đọc và Hiểu**: Đọc bài viết đơn giản và hiểu nội dung.
@@ -32,5 +32,5 @@ Hãy tiếp tục đọc các hướng dẫn cụ thể trong mỗi ngày để 
 
 Chúc bạn học tốt và thành công!
 
-_--Nhóm Hỗ Trợ Học Tiếng Anh_
+_--Nguyễn Tuấn Anh_
 
