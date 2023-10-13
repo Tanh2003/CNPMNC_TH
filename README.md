@@ -3,11 +3,6 @@
 ![image](https://github.com/Tanh2003/CNPMNC_TH/assets/109021417/f0e07f0d-7b5d-4360-844a-be965b7ec53d)
 
 Chào mọi người,😊
-
-# Kế Hoạch Học Tiếng Anh trong 10 Ngày
-
-Chào bạn,
-
 Kế hoạch học tiếng Anh trong 10 ngày. Nếu bạn đang tìm kiếm một cách nhanh chóng để làm quen với tiếng Anh hoặc cải thiện trình độ của mình, thì đây chính là nơi bạn cần đến. Bạn có thể thực hiện kế hoạch này tại nhà hoặc ở bất kỳ nơi đâu, với mục tiêu học một cách hiệu quả trong 10 ngày.
 
 ## Mục Tiêu
