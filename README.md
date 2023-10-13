@@ -15,11 +15,12 @@ Kế hoạch này được thiết kế để giúp bạn làm quen với tiến
 4. **Viết Ngắn**: Thử viết bài luận hoặc email ngắn bằng tiếng Anh.
 5. **Học Tự Học**: Nắm vững kỹ năng tự học để có thể tiếp tục phát triển sau kế hoạch này.
 
-## Lưu Ý
+## Lưu Ý🧨🧨🧨
 
 Kế hoạch học tiếng Anh trong 10 ngày là một khởi đầu tốt, nhưng nó chỉ giới thiệu bạn với cơ bản. Học tiếng Anh là một quá trình liên tục và đòi hỏi sự kiên nhẫn và thực hành thường xuyên. Sau khi hoàn thành kế hoạch này, bạn có thể tiếp tục học và phát triển kỹ năng của mình.
 
-## Lộ Trình Học
+
+## Lộ Trình Học😀😀😀
 
 Dưới đây là lộ trình học trong 10 ngày mà bạn có thể tuân thủ:
 
@@ -27,10 +28,13 @@ Dưới đây là lộ trình học trong 10 ngày mà bạn có thể tuân th�
 - [Ngày 3-4: Nghe và Phát Âm]
 - [Ngày 5-7: Học Từ Vựng và Ngữ Pháp]
 - [Ngày 8-10: Đọc và Viết]
+![image](https://github.com/Tanh2003/CNPMNC_TH/assets/109021417/82e03113-0f46-48f5-9daf-2d67964a209c)
+
 
 Hãy tiếp tục đọc các hướng dẫn cụ thể trong mỗi ngày để bắt đầu hành trình học tiếng Anh của bạn!
 
+
 Chúc bạn học tốt và thành công!
 
-_--Nguyễn Tuấn Anh_
+_--Nguyễn Tuấn Anh_--
 
