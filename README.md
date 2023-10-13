@@ -23,10 +23,10 @@ Kế hoạch học tiếng Anh trong 10 ngày là một khởi đầu tốt, nh�
 
 Dưới đây là lộ trình học trong 10 ngày mà bạn có thể tuân thủ:
 
-- [Ngày 1-2: Tập Trung vào Cơ Bản](day1-2.md)
-- [Ngày 3-4: Nghe và Phát Âm](day3-4.md)
-- [Ngày 5-7: Học Từ Vựng và Ngữ Pháp](day5-7.md)
-- [Ngày 8-10: Đọc và Viết](day8-10.md)
+- [Ngày 1-2: Tập Trung vào Cơ Bản]
+- [Ngày 3-4: Nghe và Phát Âm]
+- [Ngày 5-7: Học Từ Vựng và Ngữ Pháp]
+- [Ngày 8-10: Đọc và Viết]
 
 Hãy tiếp tục đọc các hướng dẫn cụ thể trong mỗi ngày để bắt đầu hành trình học tiếng Anh của bạn!
 
